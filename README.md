@@ -1,5 +1,7 @@
 # madeinside
 
+### https://sedatates.github.io/madeinside/
+
 ## Project setup
 ```
 npm install
