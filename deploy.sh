@@ -10,8 +10,8 @@ npm run build
 git init
 git add -A
 git commit -m 'Deploy'
-
-git push -f git@github.com:sedatates/madeinside.git main:master
-
+git branch -M main
+git remote add origin git@github.com:sedatates/madeinside.git
+git push -u origin main
 
 cd -
