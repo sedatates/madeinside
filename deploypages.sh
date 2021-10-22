@@ -11,7 +11,7 @@ cd dist
 
 git init
 git add -A
-git commit -m 'Deploy'
+git commit -m 'Deploy Pages'
 
 git remote add origin git@github.com:sedatates/madeinside.git
 git branch -M gh-pages
