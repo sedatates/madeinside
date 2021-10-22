@@ -11,7 +11,5 @@ git init
 git add -A
 git commit -m 'Deploy'
 
-git remote add origin git@github.com:sedatates/madeinside.git
-git branch -M master
-git push -u origin master
+git push -f git@github.com:sedatates/madeinside.git master
 cd -
