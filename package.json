@@ -6,7 +6,8 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "deploy": "deploy.sh"
+    "deploy": "deploy.sh",
+    "deploy-pages":"deploypages.sh"
   },
   "dependencies": {
     "@babel/polyfill": "^7.11.5",
