@@ -7,13 +7,14 @@ set -e
 npm run build
 
 
+cd dist
 
 git init
 git add -A
 git commit -m 'Deploy'
 
 git remote add origin git@github.com:sedatates/madeinside.git
-git branch -M main
-git push -u origin main
+git branch -M gh-pages
+git push -u origin gh-pages
 
 cd -
