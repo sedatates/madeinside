@@ -1,5 +1,7 @@
 # madeinside
 
+I Created The Animated Icons With Spans
+
 ### https://sedatates.github.io/madeinside/
 
 ## Project setup
